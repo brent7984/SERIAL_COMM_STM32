@@ -1,0 +1,6 @@
+1. ADC Pin = A0 (PA0)
+2. DAC Pin = A2 (PA4)
+3. Click on Plot Graph Button
+4. Reset STM32 to begin plotting points
+5. After Plotting has started, the rate can be adjusted in 
+increments/decrements of 0.1s, with a minimum of 0.3s
